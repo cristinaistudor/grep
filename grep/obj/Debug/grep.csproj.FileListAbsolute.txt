@@ -1,0 +1,7 @@
+C:\Users\crist\Documents\GitHub\grep\grep\bin\Debug\grep.exe.config
+C:\Users\crist\Documents\GitHub\grep\grep\bin\Debug\grep.exe
+C:\Users\crist\Documents\GitHub\grep\grep\bin\Debug\grep.pdb
+C:\Users\crist\Documents\GitHub\grep\grep\obj\Debug\grep.csprojAssemblyReference.cache
+C:\Users\crist\Documents\GitHub\grep\grep\obj\Debug\grep.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\GitHub\grep\grep\obj\Debug\grep.exe
+C:\Users\crist\Documents\GitHub\grep\grep\obj\Debug\grep.pdb
